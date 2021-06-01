@@ -1,13 +1,13 @@
 [
   {
     "name": "Heart Specialist",
-    "image_url": "",
+    "image_url": "https://ghcdn.rawgit.org/Digoloker/Api/e2ab002b253c8a6dc3ac74b95a17044a30d300c5/API/cora.svg",
     "total": 10,
     "color": "#E5495E"
   },
   {
     "name": "Dentista",
-    "image_url": "g",
+    "image_url": "https://ghcdn.rawgit.org/Digoloker/Api/e2ab002b253c8a6dc3ac74b95a17044a30d300c5/API/dente.svg",
     "total": 2,
     "color": "#F6AF3D"
   },
