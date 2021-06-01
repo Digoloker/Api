@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Brian Aurelio",
+        "description": "Medico atencioso e carismatico, especialista no assunto.",
+        "distance": 500,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas",
+            "call": "(48) 91274-1234"
+        }
+    },
+    {
+        "name": "Lidia Jane",
+        "description": "Medico atencioso e carismatico, especialista no assunto.",
+        "distance": 9.000,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas",
+            "call": "(41) 91234-1983"
+        }
+    }
+]

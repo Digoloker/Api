@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Keila Coorada",
+        "description": "Atendimento inpecavel e super atencioso",
+        "distance": 200,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas.",
+            "call": "(43) 91234-1234"
+        }
+    },
+    {
+        "name": "Rubia Thalmor",
+        "description": "Atendimento inpecavel e super atencioso",
+        "distance": 900,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas.",
+            "call": "(41) 91234-1234"
+        }
+    },
+    {
+        "name": "Maria Klauss",
+        "description": "Atendimento inpecavel e super atencioso",
+        "distance": 8.000,
+        "actions": {
+			"call": "(54) 91534-1234"
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas."
+        }
+    },
+    {
+        "name": "Nigel Bigas",
+        "description": "Atendimento inpecavel e super atencioso",
+		"distance": 9.000,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas.",
+            "call": "(47) 91234-1234"
+        }
+    }
+]
