@@ -1,7 +1,7 @@
 [
    {
       "name": "Cardiaco",
-      "image_url": "https://raw.githubusercontent.com/PortalTelemedicina/mobile-test/main/icons/heart-shape-outline-with-lifeline.svg",
+      "image_url": "https://cdn.jsdelivr.net/gh/Digoloker/Api@main/API/cora.svg",
       "total": 10,
       "color": "#E5495E"
    },
