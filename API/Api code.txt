@@ -1,6 +1,6 @@
 [
   {
-    "name": "Heart Specialist",
+    "name": "Cardiologista",
     "image_url": "https://ghcdn.rawgit.org/Digoloker/Api/e2ab002b253c8a6dc3ac74b95a17044a30d300c5/API/cora.svg",
     "total": 10,
     "color": "#E5495E"
