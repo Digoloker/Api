@@ -5,6 +5,41 @@
         "distance": 0.62,
         "actions": {
             "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas",
+            "call": "(42) 91234-1234"
+        }
+    },
+    {
+        "name": "Rabia Tang",
+        "description": "Medico atencioso e carismatico, especialista no assunto.",
+        "distance": 323,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas",
+            "call": "(41) 91234-1234"
+        }
+    },
+    {
+        "name": "Mackenzie Kaur",
+        "description": "Medico atencioso e carismatico, especialista no assunto.",
+        "distance": 434,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas"
+        }
+    },
+    {
+        "name": "Nick",
+        "description": "Medico atencioso e carismatico, especialista no assunto.",
+        "distance": 434,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas",
+            "call": "(43) 91234-1234"
+        }
+    },
+	{
+        "name": "Keri Crouch",
+        "description": "Medico atencioso e carismatico, especialista no assunto.",
+        "distance": 0.62,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas",
             "call": "(00) 91234-1234"
         }
     },
@@ -71,5 +106,6 @@
             "call": "(47) 91234-1234"
         }
     }
+	
 	
 ]
