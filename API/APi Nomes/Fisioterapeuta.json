@@ -23,6 +23,7 @@
         "distance": 434,
         "actions": {
             "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas"
+            "call": "(43) 91234-1234"
         }
     },
     {
