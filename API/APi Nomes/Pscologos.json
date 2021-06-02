@@ -23,14 +23,53 @@
         "distance": 4.34,
         "actions": {
             "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas"
+             "call": "(00) 91234-1234"
         }
     },
     {
         "name": "Nick",
         "description": "Medico atencioso e carismatico, especialista no assunto.",
+        "distance": 3.23,
         "actions": {
             "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas",
             "call": "(00) 91234-1234"
         }
     }
+	 {
+        "name": "Karlos Conrado",
+        "description": "Atendimento inpecavel e super atencioso",
+        "distance": 100,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas.",
+            "call": "(43) 91234-1234"
+        }
+    },
+    {
+        "name": "Rodrigo Tagen",
+        "description": "Atendimento inpecavel e super atencioso",
+        "distance": 0.55,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas.",
+            "call": "(41) 91234-1234"
+        }
+    },
+    {
+        "name": "Marcos kfil",
+        "description": "Atendimento inpecavel e super atencioso",
+        "distance": 8.000,
+        "actions": {
+			"call": "(54) 91534-1234"
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas."
+        }
+    },
+    {
+        "name": "Naloberto Berson",
+        "description": "Atendimento inpecavel e super atencioso",
+		"distance": 9.000,
+        "actions": {
+            "chat": "https://api.whatsapp.com/send?phone=5541984154739&text=Ol%C3%A1%2C%20Gostaria%20de%20sanar%20algumas%20duvidas.",
+            "call": "(47) 91234-1234"
+        }
+    }
+	
 ]
